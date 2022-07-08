@@ -14,6 +14,7 @@ namespace ConsoleApp1
 
             int count = 56;
             count = count + 1;
+             Console.WriteLine(count);
             Console.WriteLine(count);
             Console.WriteLine("Hello .NET , Welcome to .NET World...");
 
